@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, MySQL, Excel, DSA
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me - by email sushmitak07667@gmail.com
+- 📫 How to reach me - by email sushmitaa.thakur@gmail.com
 - 😄 Pronouns: Her
 
 <!---
