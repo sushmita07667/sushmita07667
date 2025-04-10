@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @sushmita07667
-- 👀 I’m interested in python, MySQL, Excel, DSA
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me - by email sushmitaa.thakur@gmail.com
-- 😄 Pronouns: Her
+- 👋 Hi, I’m Sushmita
+  I'm a "Data Analyst" who loves turning data into insights and creating meaningful visualizations.
+
+Tools & Technologies
+ ~Languages: Python, SQL, R 
+ ~Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+ ~Databases: MySQL
+ ~BI Tools: Power BI, Tableau, Excel 
+ ~Others: Jupyter Notebook
+- Get in Touch
+- 📧 Email: sushmitaa.thakur@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sushmitaa-kumari/
 
 <!---
 sushmita07667/sushmita07667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
